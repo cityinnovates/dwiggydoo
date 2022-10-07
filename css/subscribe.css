@@ -1,0 +1,140 @@
+/** user primary color **/
+.user_has_plan .main-nav,
+.user_has_plan .header-right-icons .count-num,
+.user_has_plan .dwiggy_btn,
+.user_has_plan footer,
+.user_has_plan button,
+.user_has_plan button,
+.user_has_plan .package_box.active,
+.user_has_plan .dd_form_btn a
+
+{ background: #58bed7;}
+
+.user_has_plan .search-form .search-icon,
+.user_has_plan .dd_profile .nav-pills .nav-link.active,
+
+{ color: #58bed7; }
+
+.user_has_plan .package_box.active,
+.user_has_plan .bdr-f3
+{border-color: #58bed7;}
+
+
+/**User secondary color**/
+
+.user_has_plan .package_box button
+{background:#008BB7 !important}
+.user_has_plan .package_sec .cnd_drp_btn
+{color:#008BB7 !important}
+
+.user_has_plan .color-f3{color: #58bed7;}
+
+.tabss{background: white;}
+
+.btn2{
+	color: white;
+	    border: 1px solid white;
+}
+
+.dashboard-logoutButton{
+	background-color: #58bed7 !important;
+	
+}
+.dashboard-logoutButton a{
+color: white !important;
+	
+}
+.dashicon{
+	color: #58bed7 !important;
+}
+.nav-tabs .nav-link.active {
+    border-bottom: 3px solid #58bed7 !important;
+    box-shadow: none !important;
+}
+.proimgr{
+	border: 2px solid #58bed7 !important; 
+}
+.slider-img{
+	    border-color: #58bed7;
+}
+.add{
+	background-color: #58bed7 !important;
+}
+.avatar-upload .avatar-edit input+label {
+	background: #58bed7;
+
+}.dd_form_btn button, .dd_form_btn p{
+	background: #58bed7 !important;
+}
+.intro{
+	    background-color: #58bed7;
+}
+.srtyu {    border: 3px solid #58bed7;}
+.bar {
+	background: linear-gradient(90deg, rgba(88,190,215,1) 0%, rgba(88,190,215,1) 65%, rgba(255,255,255,0.6110819327731092) 94%);
+}
+.redtoblue{
+  color: #58bed7;
+}
+.panel-heading{
+	border: 1px solid #58bed7;
+}
+
+
+tr {
+    background-color: #bad1ff36;
+}
+
+thead {
+
+	    background-color: #58bed7;
+}
+.percent {
+	color: black;
+}
+.page-item.active .page-link {
+	    background-color: #58bed7;
+}
+.page-item:last-child .page-link {
+	    border: 1px solid #58bed7;
+    color: #58bed7;
+}
+.whtr{
+    color: white !important;
+}
+
+.acorfko{
+   background-color: #58bed7;
+}
+.btn.focus, .btn:focus {
+    color: white !important;
+	    border-color: #58bed7;
+}
+.bg-color-pt {
+    background-color: #58bed7 !important;
+}
+.nextQuestion {
+	background-color: #58bed7 !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	background-color: #58bed7 !important;
+
+}
+.nav-pills .nav-link.active .lock {
+    background-color: #58bed7 !important;
+}
+.formik{
+	color: #58bed7 !important;
+}
+.act_frnd_list button:hover{
+	    color: #fff;
+    background: #58bed7 !important;
+}
+.kpmk{
+	  padding: 9px;
+      background-color: #58bed7;
+}
+.ghsyu{
+	background-color: #58bed7 !important;
+}

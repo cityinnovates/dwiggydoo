@@ -1,0 +1,746 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"form",
+				"form-step"
+			],
+			[
+				"r",
+				"rounded"
+			],
+			[
+				"goth",
+				"gotham-book"
+			],
+			[
+				"font",
+				"font-30"
+			],
+			[
+				"navbar",
+				"navbar-left"
+			],
+			[
+				"text",
+				"text-white"
+			],
+			[
+				"over",
+				"overflow-x\tproperty"
+			],
+			[
+				"fo",
+				"font-14"
+			],
+			[
+				"col-",
+				"col-lg-4"
+			],
+			[
+				"font-",
+				"font-14"
+			],
+			[
+				"text-",
+				"text-white"
+			],
+			[
+				"cl",
+				"color-light-gry"
+			],
+			[
+				"colo",
+				"color-light-gry"
+			],
+			[
+				"col",
+				"color-light-gry"
+			],
+			[
+				"bor",
+				"border-left\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"tx",
+				"text-white"
+			],
+			[
+				"py",
+				"py-4"
+			],
+			[
+				"sc",
+				"Schedule"
+			],
+			[
+				"g",
+				"gotham-book"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"clr",
+				"color-dark-blue"
+			],
+			[
+				"ali",
+				"align-items-center"
+			],
+			[
+				"card",
+				"card-body"
+			],
+			[
+				"bg-",
+				"bg-green"
+			],
+			[
+				"clr-",
+				"clr-pink"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"contai",
+				"container-fluid"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"web",
+				"web-title"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"posi",
+				"position-relative"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"tet",
+				"text-center"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"micro",
+				"microtek"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"te",
+				"text-danger"
+			],
+			[
+				"jus",
+				"justify-content-between"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"lis",
+				"list-style-none"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin-right"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"alt",
+				"altvibes"
+			],
+			[
+				"accordionfil",
+				"accordionfild"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"coll",
+				"collapsed"
+			],
+			[
+				"POIN",
+				"pointer"
+			],
+			[
+				"color-",
+				"color-light-green"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"backgro",
+				"background-image\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"w-",
+				"w-85"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"TEXT",
+				"text-center"
+			],
+			[
+				"F",
+				"font-core"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"dis",
+				"display-block"
+			],
+			[
+				"img",
+				"img-fluid"
+			],
+			[
+				"matr",
+				"margin-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"lo",
+				"loop"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"time",
+				"time-line"
+			],
+			[
+				"mt",
+				"margin-top-15"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"slid",
+				"slider-myimages"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"flo",
+				"float-none"
+			],
+			[
+				"spac",
+				"space-between\tjustify-content"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"com",
+				"common-btns"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"pull",
+				"pull-left"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"mra",
+				"margin-top\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": " <!DOCTYPE html>\n <html>\n <head>\n \t<title></title>\n \t<style type=\"text/css\">\n  \n\n \t</style>\n </head>\n <body>\n <div class=\"gradient-border\">css e</div>\n </body>\n </html>",
+			"file": "/C/Users/HP/Desktop/tbl.html",
+			"file_size": 933,
+			"file_write_time": 132566704493613346,
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/full-form.html",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/index-1.html",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/error_log",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/about-us.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/plugin.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/HP/Desktop/form.html",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/list.php",
+		"/E/vitapure/sikka/sikka-mailer.html",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/admission.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/online-registration.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/infrastructure.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/news-detail.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/contact.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/gallery.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/header-inner.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/news.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/about.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/academics.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/students-life.php",
+		"/E/vitapure/index.html",
+		"/E/vitapure/css/style.css",
+		"/E/IMM/index.html",
+		"/E/vitapure/js/custom.min.js",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/service.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/service -detail.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/service-inner.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/privacy-policy.php",
+		"/E/global-media/service.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/apply-now.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/save-complaint.php",
+		"/E/global-media/service-inner.php",
+		"/E/global-media/service -detail.php",
+		"/E/global-media/privacy-policy.php",
+		"/E/global-media/contact.php",
+		"/E/global-media/about.php",
+		"/E/global-media/header.php",
+		"/E/global-media/footer.php",
+		"/E/global-media/index.php",
+		"/C/Users/HP/Desktop/navigation.html",
+		"/E/global-media/two draw.html",
+		"/E/global-media/index.html",
+		"/E/global-media/service.html",
+		"/C/Users/HP/Desktop/nnnn",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/home.php",
+		"/E/global-media/css/style.css",
+		"/C/Users/HP/Desktop/nav.html",
+		"/E/global-media/about.html",
+		"/C/Users/HP/Desktop/bing.html",
+		"/E/global-media/js/custom.min.js",
+		"/E/Placeholder-Typewriter-master/Placeholder-Typewriter-master/index.html",
+		"/C/Users/HP/Desktop/last header",
+		"/E/biz-content/css/style.css",
+		"/E/biz-content/about-us.php",
+		"/C/Users/HP/Desktop/ft.php",
+		"/C/Users/HP/Desktop/richline amp.html",
+		"/E/global-media/privacy-policy.html",
+		"/E/global-media/service-inner.html",
+		"/E/spark18/css/style.css",
+		"/E/spark18/index.html",
+		"/C/Users/HP/Desktop/tbl.html",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/footer 2.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/wallet-transaction.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/checkout-address-one.php",
+		"/E/IMM/js/custom.min.js",
+		"/E/IMM/css/style.css",
+		"/E/biz-content/index.php",
+		"/E/spark/css/style.css",
+		"/E/spark/index.html",
+		"/E/spark/js/custom.min.js",
+		"/E/biz-content/contact.html",
+		"/E/biz-content/footer.php",
+		"/E/biz-content/contact-us.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/contact-us.php",
+		"/E/biz-content/about-us.html",
+		"/E/biz-content/header.php",
+		"/E/biz-content/index.html",
+		"/E/sahil-gupta/anthurium.php",
+		"/E/biz-content/js/custom.min.js",
+		"/E/sahil-gupta/js/custom.js",
+		"/E/sahil-gupta/footer.php",
+		"/E/sahil-gupta/header.php",
+		"/E/sahil-gupta/index.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/altcustom.js",
+		"/C/Users/HP/Desktop/chat.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/dashboard.blade.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/header 2.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/load-calculator.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/cart.php",
+		"/E/sahil-gupta/about.php",
+		"/C/Users/HP/Desktop/randr/index.html",
+		"/C/Users/HP/Desktop/randr/css/style.css",
+		"/C/Users/HP/Downloads/New folder (1)/New folder/68584-4.jpg",
+		"/C/Users/HP/Downloads/New folder (1)/New folder/68584-3.jpg",
+		"/C/Users/HP/Downloads/New folder (1)/New folder/68584-2.jpg",
+		"/C/Users/HP/Downloads/New folder (1)/New folder/68584.jpeg",
+		"/C/Users/HP/Downloads/New folder (1)/New folder/68584-1.jpg",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/load-calculator 2.php",
+		"/C/Users/HP/Downloads/test/test/Fintech revamp homepage.psd",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/about-menu.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/categories-details.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/my-account-list.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/order-listing.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/.htaccess 2",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/cancel-order.php",
+		"/C/Users/HP/Desktop/1/Lightweight-jQuery-Content-Scroller-Plugin-marquee-js/Lightweight-jQuery-Content-Scroller-Plugin-marquee-js/index.html",
+		"/C/Users/HP/Desktop/1/Lightweight-jQuery-Content-Scroller-Plugin-marquee-js/Lightweight-jQuery-Content-Scroller-Plugin-marquee-js/example/index.html",
+		"/E/sahil-gupta/sahil-gupta-blog/src/app/app.component.html",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/test 3.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/product-image.jpg",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/test.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/test 2.php",
+		"/C/Users/HP/Desktop/test.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/insert-user.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/insert-btbuser.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/verify.php",
+		"/E/sahil-gupta/blog10.php",
+		"/E/sahil-gupta/sahil-gupta-blog/src/index.html",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/outofstock-notify.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/notify-me.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/save-subscribe.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Have you taken the SAT/TOFEL/IELTS/Any",
+			"Have you taken the SAT/TOFEL/IELTS/Any Other",
+			"Have you taken the SAT/TOFEL/IELTS/Any Other ?",
+			"Have you taken the SAT/TOFEL/IELTS/Any Other ? *",
+			"Have you taken the SAT/TOFEL/IELTS/Any Other ? *\n",
+			".newsletter-forms input",
+			"pulses vission",
+			"bb",
+			"woo",
+			"</form>",
+			"<form>",
+			"for=\"inputEmail4\"",
+			"for=\"inputPassword4\"",
+			"id=\"inputPassword4\" placeholder=\"Password\"",
+			"type=\"password\"",
+			"id=\"inputEmail4",
+			"type=\"email\""
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/HP/Desktop/tbl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "owl-carousel.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
